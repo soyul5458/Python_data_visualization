@@ -12,7 +12,7 @@ Various visualization techniques
    * Pie chart
 2. `seaborn` library
     * Scatter plot
-    * hexagonal scatter plot.
+    * hexagonal scatter plot
     * Scatterplot Matrix
     * Line plot
     * Histogram
