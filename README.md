@@ -4,28 +4,31 @@ This repository contains codes for mastering the visualization libraries of matp
 
 ## The skills you will gain.
 Various visualization techniques
-1. matplotlib library
+1. `matplotlib` library
    * Line plot
    * Bar plot
    * Histogram
    * Scatter plot
    * Pie chart
-2. seaborn library
-  * Scatter plot
-  * hexagonal scatter plot.
-  * Scatterplot Matrix
-  * Line plot
-  * Histogram
-  * 2D Histogram
-  * Density plot
-  * Dot plot
-  * Boxplot
-  * Violin plot
-  * Point estimate plot
-  * Bar plot
-  * Regression plot
-  * Residual plot
-  * Multiple plots
+2. `seaborn` library
+    * Scatter plot
+    * hexagonal scatter plot.
+    * Scatterplot Matrix
+    * Line plot
+    * Histogram
+    * 2D Histogram
+    * Density plot
+    * Dot plot
+    * Boxplot
+    * Violin plot
+    * Point estimate plot
+    * Bar plot
+    * Regression plot
+    * Residual plot
+    * Multiple plots
+  
+## Additional visualization techniques
+For additional visualization techniques, please refer to the link below.
 * [Forest plot](https://github.com/LSYS/forestplot)
 
 
